@@ -39,5 +39,5 @@
 [![smirnyiy](https://mynickname.com/img.php?id=1401322&sert=1)](https://mynickname.com/smirnyiy)
 
 [![smirnyiy](https://mynickname.com/img.php?id=1755674&sert=1)](https://mynickname.com/smirnyiy) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smirnyiy&repo=smirnyiy)](https://github.com/DispenserBro) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smirnyiy&repo=smirnyiy)](https://github.com/smirnyiy) -->
 
