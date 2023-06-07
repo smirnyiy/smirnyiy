@@ -4,7 +4,7 @@
 - 👯 I am currently looking for a job..
 - 💬 Ask me about [![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smirnyiy)
 
-!(https://github.com//smirnyiy/blob/main/Mhw4.gif)](https://github.com/smirnyiy/smirnyiy/blob/main/Mhw4.gif)
+![Coding](https://github.com/smirnyiy/smirnyiy/blob/main/Mhw4.gif))
 ## Stats
 
 <picture>
