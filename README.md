@@ -3,7 +3,7 @@
 - 🌱 I am currently learning with school GeekBrains...
 - 👯 I am currently looking for a job..
 - 💬 Ask me about [![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smirnyiy)
-
+![Coding](https://github.com//DispenserBro/blob/main/code.gif)](https://github.com/smirnyiy/smirnyiy/blob/main/Mhw4.gif)
 ## Stats
 
 <picture>
